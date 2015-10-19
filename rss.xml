@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[marcelo pontes]]></title>
         <description><![CDATA[marcelo pontes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marcelopontes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 00:06:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 19 Oct 2015 00:06:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marcelopontes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/marcelopontes/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">28c59e07-0710-4fc8-9042-174903b42a28</guid>
+            <pubDate>Mon, 19 Oct 2015 00:05:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined5efc4e49-244e-41f8-9d73-5d87c46d4968/index.html</link>
+            <link>https://thegrid.ai/marcelopontes/5efc4e49-244e-41f8-9d73-5d87c46d4968/index.html</link>
             <guid isPermaLink="false">5efc4e49-244e-41f8-9d73-5d87c46d4968</guid>
             <pubDate>Mon, 19 Oct 2015 00:05:57 GMT</pubDate>
         </item>
